@@ -1,0 +1,40 @@
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\SSIS.Postgres.dll.config
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\SSIS.Postgres.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\SSIS.Postgres.pdb
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\Microsoft.SqlServer.DtsMsg.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\Npgsql.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\System.Buffers.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\System.Memory.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\System.Numerics.Vectors.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\System.Text.Json.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\bin\Debug\System.ValueTuple.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\obj\Debug\SSIS Postgres Destination.csprojAssemblyReference.cache
+C:\Workspace\GITHUB\SSIS Postgres Destination\obj\Debug\SSIS.Postgres.Properties.Resources.resources
+C:\Workspace\GITHUB\SSIS Postgres Destination\obj\Debug\SSIS Postgres Destination.csproj.GenerateResource.cache
+C:\Workspace\GITHUB\SSIS Postgres Destination\obj\Debug\SSIS Postgres Destination.csproj.CopyComplete
+C:\Workspace\GITHUB\SSIS Postgres Destination\obj\Debug\SSIS.Postgres.dll
+C:\Workspace\GITHUB\SSIS Postgres Destination\obj\Debug\SSIS.Postgres.pdb
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\SSIS.Postgres.dll.config
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\SSIS.Postgres.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\SSIS.Postgres.pdb
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\Microsoft.SqlServer.DtsMsg.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\Npgsql.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\System.Buffers.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\System.Memory.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\System.Numerics.Vectors.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\System.Text.Json.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\bin\Debug\System.ValueTuple.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\obj\Debug\SSIS Postgres Destination.csprojAssemblyReference.cache
+C:\Workspace\GITHUB\ssis-postgres-destination\src\obj\Debug\SSIS.Postgres.Properties.Resources.resources
+C:\Workspace\GITHUB\ssis-postgres-destination\src\obj\Debug\SSIS Postgres Destination.csproj.GenerateResource.cache
+C:\Workspace\GITHUB\ssis-postgres-destination\src\obj\Debug\SSIS Postgres Destination.csproj.CopyComplete
+C:\Workspace\GITHUB\ssis-postgres-destination\src\obj\Debug\SSIS.Postgres.dll
+C:\Workspace\GITHUB\ssis-postgres-destination\src\obj\Debug\SSIS.Postgres.pdb
