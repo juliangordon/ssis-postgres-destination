@@ -1,9 +1,0 @@
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\bin\Debug\JUMO.SSIS.Postgres.dll
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\bin\Debug\JUMO.SSIS.Postgres.pdb
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\bin\Debug\Microsoft.SQLServer.ManagedDTS.dll
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\obj\Debug\JUMO_SSIS.Resource1.resources
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\obj\Debug\JUMO DotNet Library.csproj.GenerateResource.Cache
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\obj\Debug\JUMO.SSIS.Postgres.dll
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\obj\Debug\JUMO.SSIS.Postgres.pdb
-C:\Workspace\Julian\JUMO DotNet Library\JUMO DotNet Library\obj\Debug\JUMO DotNet Library.csprojResolveAssemblyReference.cache
